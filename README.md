@@ -6,7 +6,7 @@ A plurality of stable and unstable solutions of the 2D cavity flow at $\boldsymb
 
 Class 1 | Class 2
 --- | ---
-![](https://github.com/Scien42/NSFnet/blob/main/Re2K_Class1.gif) | ![](https://github.com/Scien42/NSFnet/blob/main/resources/Re2K_Class2.gif) 
+![](https://github.com/Scien42/NSFnet/blob/main/Re2K_class1.gif) | ![](https://github.com/Scien42/NSFnet/blob/main/resources/Re2K_Class2.gif) 
 
 
 
